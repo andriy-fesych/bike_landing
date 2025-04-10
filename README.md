@@ -17,18 +17,19 @@ git clone https://github.com/andriy-fesych/bike_landing.git<br/>
 2. This project is running on node version v14.21.3<br/>
 I recommend using NVM to easily switch between node versions:<br/>
 [Node Version Manager install guide](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/)<br/>
+Using this guide ☝️ choose NVM v1.1.12 [from here](https://github.com/coreybutler/nvm-windows/releases/tag/1.1.12), as it is more stable for older Node versions<br/>
 3. Now to use correct node version:<br/>
 nvm install 14.21.3<br/>
 nvm use 14.21.3<br/>
-3. Install dependencies:<br/>
+4. Install dependencies:<br/>
 npm install<br/>
 or<br/>
 yarn install<br/>
-4. Run the project locally:<br/>
+5. Run the project locally:<br/>
 npm start<br/>
 or<br/>
 yarn start<br/>
-5. Congratulations! You are now set! 😊
+6. Congratulations! You are now set! 😊
 
 
 Features:<br/>
