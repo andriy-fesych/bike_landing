@@ -18,6 +18,7 @@ document.body.addEventListener('click', (event) => {
     nav.style['pointer-events'] = 'none';
     nav.style.opacity = 0;
     body.style.overflow = 'auto';
+    body.style["overflow-x"] = 'hidden';
 
     setTimeout(() => {
       nav.style['z-index'] = -10;
